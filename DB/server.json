@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Burger",
+      "id": 1,
+      "count": 0,
+      "price": "$200",
+      "isAdded": false
+    },
+    { "name": "Fries", "id": 2, "count": 0, "price": "$150", "isAdded": false },
+    { "name": "Cola", "id": 3, "count": 0, "price": "$10", "isAdded": false },
+    { "name": "Water", "id": 4, "count": 0, "price": "$2", "isAdded": false }
+  ]
+}
